@@ -36,25 +36,70 @@ const me = {
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" /><br>Python</td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=c" width="48" height="48" /><br>C</td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" /><br>C++</td>
-      <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" /><br>Jupyter</td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+        <br>C
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+        <br>C++
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter" />
+        <br>Jupyter
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=anaconda" width="48" height="48" alt="Anaconda" />
+        <br>Anaconda
+      </td>
     </tr>
     <tr>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" /><br>PyTorch</td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" /><br>OpenCV</td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" /><br>AWS</td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" /><br>Google Cloud</td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" /><br>Docker</td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" /><br>Linux</td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-plain-wordmark.svg" width="48" height="48" alt="JupyterLab" />
+        <br>JupyterLab
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+        <br>MySQL
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+        <br>AWS
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="Google Cloud" />
+        <br>Google Cloud
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+        <br>Docker
+      </td>
     </tr>
     <tr>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" /><br>Git</td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" /><br>GitHub</td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" /><br>VS Code</td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=latex" width="48" height="48" /><br>LaTeX</td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" /><br>HTML5</td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+        <br>Linux
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+        <br>Git
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+        <br>GitHub
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+        <br>VS Code
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+        <br>HTML5
+      </td>
     </tr>
   </table>
 </div>
